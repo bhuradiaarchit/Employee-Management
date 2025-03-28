@@ -20,6 +20,11 @@ Features
 - **MySQL Connector** - Python package for connecting to MySQL
 
 **Screenshots**
+
+
+
+
+
 ![Screenshot 2025-03-28 162958](https://github.com/user-attachments/assets/1c423501-87df-4495-aa64-ac30777b122b)
 
 ![Screenshot 2025-03-28 163010](https://github.com/user-attachments/assets/1e9326f3-cdc5-4edf-9d5b-661651847604)
