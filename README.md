@@ -1,4 +1,9 @@
+Setup Instructions:
+1.Install Dependencies - pip install -r requirements.txt 
 
+2.Edit config.py with your MySQL credentials. 
+
+3.Run the Application - python main.py  
 
 
 **Screenshots**
