@@ -1,13 +1,3 @@
-Employee Management System
-Overview
-A simple Python GUI application for managing employee records using MySQL and Tkinter. The application provides comprehensive features for employee management, including adding, removing, promoting, and displaying employee information.
-
-Technologies Used:
-
-Python: Backend logic and database interaction
-MySQL: Database to store employee records
-Tkinter: GUI for the Employee Management System
-MySQL Connector: Python package for connecting to MySQL
 
 
 
